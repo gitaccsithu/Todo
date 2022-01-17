@@ -28,10 +28,10 @@ Users can:
 ### Screenshots
 
 - Desktop view
-![](./views/scrnli_1_17_2022_3-06-45 PM.png)
+![] (./views/scrnli_1_17_2022_3-06-45 PM.png)
 
 - Mobile view
-![](./views/scrnli_1_17_2022_3-07-14 PM.png)
+![] (./views/scrnli_1_17_2022_3-07-14 PM.png)
 
 
 ## My process
