@@ -28,8 +28,9 @@ Users can:
 ### Screenshots
 
 - Desktop
-![](./views/scrnli_1_17_2022_3-06-45 PM.png)
+![](./views/desktop.png)
 - Mobile
+![](./views/mobile.png)
 
 ## My process
 
